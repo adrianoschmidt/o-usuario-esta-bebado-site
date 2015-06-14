@@ -150,3 +150,9 @@ input[type='submit']:hover {
   background-color: rgba(255,255,255,.2);
   border: none;
 }
+
+.divface {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 20px;
+  padding-right: 0px;
+}
